@@ -10,3 +10,8 @@
 - [AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs](https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/)
 - [How AWS Is Using Agentic AI To Reinvent Infrastructure Modernization](https://aws.amazon.com/blogs/migration-and-modernization/how-aws-is-using-agentic-ai-to-reinvent-infrastructure-modernization/)
 - [AI-DLC - one core, many harnesses](https://github.com/awslabs/aidlc-workflows)
+- MCP - Model Context protocol
+    - [MCP documentation](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+    - [An old commit, how it used to be kept by the MCP community, an infintie list of servers](https://github.com/modelcontextprotocol/servers/blob/599b170e9d750326c069ae87fd5991b099fb964a/README.md)
+    - [Servers reference in the MCP repo](https://github.com/modelcontextprotocol/servers/blob/main/README.md)
+    - [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
