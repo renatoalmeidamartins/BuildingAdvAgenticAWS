@@ -27,3 +27,9 @@
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/)
 - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
 - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- Memory
+    - [Langchain definition](https://docs.langchain.com/oss/python/concepts/memory)
+    - [System prompts for the built-in memory extraction strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+- Strands agents tools
+    - [Vended tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
+    - [Community tools](https://github.com/strands-agents/tools)
