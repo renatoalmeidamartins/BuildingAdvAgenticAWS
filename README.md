@@ -30,6 +30,19 @@
 - Memory
     - [Langchain definition](https://docs.langchain.com/oss/python/concepts/memory)
     - [System prompts for the built-in memory extraction strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+    - [Using Long-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-memory-long-term.html)
+    - [Using short-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-memory-long-term.html)
+    - [Built-in Conversation Managers](https://strandsagents.com/docs/user-guide/sdk/agents/conversation-management/)
 - Strands agents tools
     - [Vended tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
     - [Community tools](https://github.com/strands-agents/tools)
+- [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
+- [TOON - Token-oriented object notation](https://github.com/toon-format/toon)
+- [Prompt caching for faster model inference](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
+- [Using semantic search to find tools in a gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems](https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/)
+- Security
+    - [OWASP top 10 for Agentic AI](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)
+    - [OWASP top 10 in 2017](https://owasp.github.io/www-project-top-ten/2017/) - notice injection was the first
+    - [Current OWASP top 10](https://top10.owasp.org/2025/) - injection is now number 5
+    - [LLM top 10](https://genai.owasp.org/llm-top-10/)
