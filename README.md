@@ -15,3 +15,15 @@
     - [An old commit, how it used to be kept by the MCP community, an infintie list of servers](https://github.com/modelcontextprotocol/servers/blob/599b170e9d750326c069ae87fd5991b099fb964a/README.md)
     - [Servers reference in the MCP repo](https://github.com/modelcontextprotocol/servers/blob/main/README.md)
     - [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+- A2A - Agent to Agent protocol
+    - [Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+    - [GitHub repo](https://github.com/a2aproject/a2a)
+- Multi-agent patterns
+    - [Workflow](https://strandsagents.com/docs/user-guide/sdk/multi-agent/workflow/)
+    - Graph
+        - [Strands Graph Workflow](https://strandsagents.com/docs/user-guide/sdk/multi-agent/graph/)
+        - [One example using LangGraph](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+    - [Swarm Multi-Agent Pattern](https://strandsagents.com/docs/user-guide/sdk/multi-agent/swarm/)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/)
+- [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+- [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
