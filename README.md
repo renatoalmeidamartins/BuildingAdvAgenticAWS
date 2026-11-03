@@ -50,8 +50,8 @@
     - [Getting started with Policy in AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-getting-started.html)
     - [Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows](https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/)
     - [Introducing Dogwood: runtime verification for AI agents](https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/)
-    - Well architected lenses
-        - Responsible AI Lens [doc](https://docs.aws.amazon.com/wellarchitected/latest/responsible-ai-lens/responsible-ai-lens.html) and [repo](https://github.com/aws-samples/sample-well-architected-custom-lens/tree/main)
-            - [Responsible AI defined](https://aws.amazon.com/ai/responsible-ai/)
-        - [Introducing the responsible AI Lens](https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-well-architected-responsible-ai-lens/)
-        - [Generative AI Lens](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
+- Well architected lenses
+    - Responsible AI Lens [doc](https://docs.aws.amazon.com/wellarchitected/latest/responsible-ai-lens/responsible-ai-lens.html) and [repo](https://github.com/aws-samples/sample-well-architected-custom-lens/tree/main)
+        - [Responsible AI defined](https://aws.amazon.com/ai/responsible-ai/)
+    - [Introducing the responsible AI Lens](https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-well-architected-responsible-ai-lens/)
+    - [Generative AI Lens](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
