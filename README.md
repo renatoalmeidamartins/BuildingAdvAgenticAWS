@@ -2,6 +2,7 @@
 
 ## Book and other links
 - [Labs and books](https://us-east-1.student.classrooms.aws.training/class/ilt%23tDu1jmYVKQBfHR8SzrAG2r)
+- [MyClass](https://myclass.skillbuilder.aws). Please fill the survey. It should be seen in the "Past classes" section
 
 ## Content links
 - [Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/)
@@ -55,3 +56,4 @@
         - [Responsible AI defined](https://aws.amazon.com/ai/responsible-ai/)
     - [Introducing the responsible AI Lens](https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-well-architected-responsible-ai-lens/)
     - [Generative AI Lens](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
+- [Built-in evaluator prompts](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
